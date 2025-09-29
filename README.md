@@ -40,7 +40,7 @@ Solving challenging problems on LeetCode to strengthen my Data Structures and Al
 
 📊 My GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-E-D-E-N-D&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-E-G-E-N-D&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
