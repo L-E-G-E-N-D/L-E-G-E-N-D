@@ -1,5 +1,5 @@
 Hi there, I'm Tanush Kumar 👋
-<a href="https://www.google.com/search?q=https://linkedin.com/in/https://www.linkedin.com/in/tanush-kumar-294042304/">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/tanush-kumar-294042304/">
 <img align="right" width="450" src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF">
 </a>
 
@@ -40,14 +40,17 @@ Solving challenging problems on LeetCode to strengthen my Data Structures and Al
 
 📊 My GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-E-G-E-N-D&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-E-G-E-N-D&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Tanush Kumar's GitHub Stats"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DL-E-G-E-N-D%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages"/>
 </p>
-
-
 
 📫 Let's Connect!
 Feel free to reach out. I'm always open to connecting with new people, collaborating on projects, or having a chat about technology.
+
+<p align="left">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/tanush-kumar-294042304/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Profile" /></a>
+<a href="mailto:tanushkumar777@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/gmail-EA4335.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /></a>
+</p>
 
 <p align="left">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/https://www.linkedin.com/in/tanush-kumar-294042304/" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Your LinkedIn Profile" /></a>
